@@ -1,0 +1,20 @@
+A **variable** in simple terms is a storage place which has some memory allocated to it. Basically, a variable used to store some form of data.
+
+There are many type of variable
+    local-acceess only from the that fuction
+    global-access from any fun
+    static-A variable that retains its value between multiple function calls is known as static variable. 
+    Automatic-All variables in C that are declared inside the block, are automatic variables by default. auto int y=20;//automatic variable
+    External-External variable can be shared between multiple C files.We can declare external variable using extern keyword.
+ 
+**Keywords** are specific reserved words in C each of which has a specific feature associated with it 
+There are a total of 44 keywords in C 
+
+const: const can be used to declare constant variables.
+
+.c file convert to .s file after compiling 
+
+**LInker** https://www.youtube.com/watch?v=N2y6csonII4,is used to linked the another variable to a program file 
+
+int a   this is declaration and also definition 
+extern int a only declaration           https://www.youtube.com/watch?v=1Dkfmf4PmvQ
