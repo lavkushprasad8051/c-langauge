@@ -18,3 +18,6 @@ const: const can be used to declare constant variables.
 
 int a   this is declaration and also definition 
 extern int a only declaration           https://www.youtube.com/watch?v=1Dkfmf4PmvQ
+
+** linkage and scope **
+https://www.geeksforgeeks.org/internal-linkage-external-linkage-c/
